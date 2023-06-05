@@ -1,16 +1,17 @@
-# MURF code
+# [Dealwa](https://www.linkedin.com/company/dealwa/?originalSubdomain=fr) Smart Water Fountain example project, made during the Sparkathon #1 session.
 
-## How it works..
+## Summary
 
-## How to flash it..
+- This example project shows the basic structre on how to build a smart water fountain with optional functions and features.
+- Our hope with this project is to show you how with just a few simple components you can make real-world products that help real people!
+- We hope to evolve this code over time, so check back in future to see how it evolves!
 
-.. also note if you use Versions/tags maybe explain how they work here.
+## Capabilities/Limitations
 
-## Links to necessary docs
+- Currently this code simply takes a button press and with that opens a relay that in turn powers a water valve.
+- There is a framework ready for optional payment methods, a display, and WiFi connectivity to an app, but none of these are in place.
 
-## ToDo (optional)
+## Project ownership
 
-## GENERAL COMMENTS
-COMMENT PLZ
-PLZ GET AN AUTOFORMATTER
-Organizational structure, try think of it in terms of (static) components, where their firmware never changes (pump, heater, etc.), and your mother (dynamic) component, where the firmware is dynamically changing/OTA whatever. Have your folder structure reflect this --> it'll be easier to read, debug, and also easier to handle OTA updates eventually.
+- All code within this project is owned by Dealwa
+- Code in this project was created by [Matt@Sparkmate](matthew@sparkmate.co) for the Sparkathon #1 day, a free one-day event where Sparkmate helps impactful startups solve real problems.  
